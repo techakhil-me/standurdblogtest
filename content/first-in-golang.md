@@ -8,14 +8,18 @@ tags:
   - Golang
 ---
 
-## Test
+## Hello World in GO language
 
 ```go
 package main
 import "fmt"
 func main() {
-    fmt.Println("hello world")
+    fmt.Println("Hello World")
 }
 ```
+# Output
+```
+>> Hello World
+```
 
-Thats how you print hello world
+Thats how you print hello world in GO language.
