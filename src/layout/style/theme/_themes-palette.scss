@@ -1,0 +1,65 @@
+:root {
+  --white: #fff;
+  --black: #0f1114;
+  --pink1: #ffa7c4;
+  --pink2: #ff7597;
+  --blue1: #0072bb;
+  --yellow1: #efbb35;
+  --yellow2: rgb(245, 222, 179);
+  --red1: #c62828;
+}
+
+$palette: (
+  light: (
+    --bg1: #ececec,                    
+    --bg2: #fafafa,                    
+    --bg3: #fcfcfc,                    
+    --bg4: #f8f8f8,
+    --invert1: #282c35,
+    --invert2: #f9ffee,
+    --text-color: #404040,
+    --link: #000,
+    --post-content-link: #d32f2f,
+    --subtle-top1: #56afb7,
+    --subtle-top2: #008aff,
+    --subtle-h1-1: #ef9a9a,
+    --subtle-h1-2: #e53935,
+    --subtle-h1-3: #b71c1c,
+    --header-h2: #008f83,
+    --hover-top: #0072cc,
+    --hover-top-icon: #cecece,
+    --post-card-hover: #464646,
+    --category-border: #757575,
+    --tag-border: #212121,
+    --warning: #e75b7e,
+    --info: #6200ee,
+    --text-shadow: 0px 0 1px black,
+    --logo-theme: none,
+  ),
+  dark: (
+    --bg1: #6b6b6b,
+    --bg2: #fafafa,
+    --bg3: #fcfcfc,
+    --bg4: #f8f8f8,
+    --invert1: #f9ffee,
+    --invert2: #282c35,
+    --text-color: #ffffff,
+    --link: #e0e2b7,
+    --post-content-link: #dff2ff,
+    --subtle-top1: #131313,
+    --subtle-top2: #000000,
+    --subtle-h1-1: #dedede,
+    --subtle-h1-2: #d2d2d2,
+    --subtle-h1-3: #d2d2d2,
+    --header-h2: #989898,
+    --hover-top: #232323,
+    --hover-top-icon: #585858,
+    --post-card-hover: #000000,
+    --category-border: #464646,
+    --tag-border: #3e3d3d,
+    --warning: #383838,
+    --info: #009688,
+    --text-shadow: 0.5px 0.5px 0px #000000,
+    --logo-theme: grayscale(1) invert(1),
+  )
+);
