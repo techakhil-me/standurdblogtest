@@ -17,7 +17,7 @@ int main()
 {
     printf("Hello World");
 }
-```ṣ
+```
 # Output
 ```
 >> Hello World
