@@ -1,7 +1,7 @@
 ---
 title: First in Golang
 date: 2020-07-20
-cover: /images/1.webp
+cover: /images/golang.png
 category: programming
 tags:
   - GO
