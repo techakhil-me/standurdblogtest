@@ -8,14 +8,6 @@ tags:
   - backtracking
 ---
 
-## Hello World in Python
-
-```python
-print('Hello World')
-```
-# Output
-```
->> Hello World
-```
-
-Thats how you print hello world in Python.
+## Nqueens Backtracking Problems
+This is one of the famous backtracking problems asked 
+in coding interviews.
