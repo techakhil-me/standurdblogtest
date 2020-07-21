@@ -43,6 +43,12 @@ $alertStyles: (
 
   pre {
     overflow: auto;
+    background: var(--post-bg);
+    border-radius: 10px;
+    margin-bottom: 1.6em;
+    display: block;
+    border: 1px solid var(--code-border);
+    border-left: 3px solid #f36d33;
   }
 
   code[class ="language-text"] {
