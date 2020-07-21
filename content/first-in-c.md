@@ -1,21 +1,20 @@
 ---
-title: First in CPP
+title: First in Golang
 date: 2020-07-20
-cover: /images/cpp.png
+cover: /images/golang.png
 category: programming
 tags:
-  - C++
-  - cpp
+  - GO
+  - Golang
 ---
 
-## Hello World in C++ language
+## Hello World in GO language
 
-```CPP
-#include <stdio.h>
-
-int main()
-{
-    printf("Hello World");
+```go
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello World")
 }
 ```
 # Output
@@ -23,4 +22,4 @@ int main()
 >> Hello World
 ```
 
-Thats how you print hello world in C++ language.
+Thats how you print hello world in GO language.
