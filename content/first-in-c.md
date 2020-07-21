@@ -1,7 +1,7 @@
 ---
 title: First in C++
 date: 2020-07-20
-cover: /images/1.webp
+cover: /images/cpp.png
 category: programming
 tags:
   - C++

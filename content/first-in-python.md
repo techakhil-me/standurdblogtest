@@ -1,7 +1,7 @@
 ---
 title: First in Python
 date: 2020-07-20
-cover: /images/1.webp
+cover: /images/python.jpg
 category: programming
 tags:
   - PY

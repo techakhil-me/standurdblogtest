@@ -1,7 +1,7 @@
 ---
 title: First in Javascript
 date: 2020-07-20
-cover: /images/1.webp
+cover: /images/js.png
 category: programming
 tags:
   - JS
