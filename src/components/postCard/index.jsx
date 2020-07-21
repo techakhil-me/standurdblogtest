@@ -10,7 +10,7 @@ import './style.scss';
 const PostCard = ({ data }) => {
   const isMobile = useIsMobile();
   return (
-    <article className="post-card" head={<Link to={data.path}>{data.title}</Link>}>
+    <article className="post-card" >
       {!isMobile && data.cover && <Img fluid={{ ...data.cover.childImageSharp.fluid }} className="post-card-cover" />}
       <PostText
         category={data.category}

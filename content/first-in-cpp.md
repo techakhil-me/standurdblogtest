@@ -1,14 +1,14 @@
 ---
-title: First in Golang
+title: First in C++
 date: 2020-07-20
 cover: /images/golang.png
 category: programming
 tags:
-  - GO
-  - Golang
+  - C++
+  - cpp
 ---
 
-## Hello World in GO language
+## Hello World in C++ language
 
 ```go
 package main
@@ -22,4 +22,4 @@ func main() {
 >> Hello World
 ```
 
-Thats how you print hello world in GO language.
+Thats how you print hello world in C++ language.
