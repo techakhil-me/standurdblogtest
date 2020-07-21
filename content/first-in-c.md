@@ -1,20 +1,21 @@
 ---
-title: First in CPP
+title: First in C++
 date: 2020-07-20
 cover: /images/cpp.png
 category: programming
 tags:
-  - CPP
-  - cpp
+  - C++
+  - c++
 ---
 
 ## Hello World in C++ language
 
-```go
-package main
-import "fmt"
-func main() {
-    fmt.Println("Hello World")
+```cpp
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
 }
 ```
 # Output
