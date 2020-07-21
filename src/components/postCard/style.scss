@@ -6,6 +6,7 @@ $card-height: 275px;
 
 .post-card {
   display: grid;
+  background-color: var(--post-card);
   margin: $spacing-normal;
   grid-template-columns: 1fr 2fr;
   grid-gap: $relative-spacing-xlarge;

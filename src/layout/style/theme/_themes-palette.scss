@@ -37,6 +37,7 @@
       --text-shadow: 0px 0 1px black,
       --logo-theme: none,
       --code-border: #282c35,
+      --post-card: #f1f1f1,
     ),
     dark: (
       --bg1: #6b6b6b,
@@ -65,5 +66,6 @@
       --logo-theme: grayscale(1) invert(1),
       --post-bg: #3d3d3d,
       --code-border: none,
+      --post-card: #545454,
     )
   );
