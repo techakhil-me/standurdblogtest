@@ -6,15 +6,15 @@ const config = {
   siteLanguage: "en", // Site language.
   siteDescription: "Things You Might Find Interesting.", // Website description used for RSS feeds/meta description tag.
   siteLogo: "static/favicons/favicon.png", // Logo used for manifest.
-  siteUrl: "https://gatsby-starter-papan01.netlify.com", // Domain of your website without pathPrefix.
+  siteUrl: "https://standurdblog.netlify.app/", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "214355523020609", // FB Application ID for using app insights
   siteGATrackingID: "UA-153303709-3", // Tracking code ID for google analytics.
   disqusShortname: "standurd", // Disqus shortname.
   twitterUserName: "", // twitter creator for SEO
-  datePublished: "2019-12-08", // for SEO
-  copyrightYear: "2019", // for SEO
+  datePublished: "2020-12-08", // for SEO
+  copyrightYear: "2020", // for SEO
   postsPerPage: 4, // posts per page used in gatsby-node.js
   // Links to social profiles you want to display in the footer.
   rrssb: [
