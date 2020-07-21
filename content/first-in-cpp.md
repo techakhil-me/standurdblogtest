@@ -1,10 +1,10 @@
 ---
-title: First in C++
+title: First in CPP
 date: 2020-07-20
-cover: /images/golang.png
+cover: /images/cpp.png
 category: programming
 tags:
-  - C++
+  - CPP
   - cpp
 ---
 
