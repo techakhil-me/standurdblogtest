@@ -1,5 +1,5 @@
 ---
-title: First in C++
+title: First in CPP
 date: 2020-07-20
 cover: /images/cpp.png
 category: programming
