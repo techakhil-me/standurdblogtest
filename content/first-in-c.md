@@ -10,7 +10,7 @@ tags:
 
 ## Hello World in C++ language
 
-```cpp
+```CPP
 #include <stdio.h>
 
 int main()
