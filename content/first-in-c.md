@@ -5,7 +5,7 @@ cover: /images/cpp.png
 category: programming
 tags:
   - C++
-  - c++
+  - cpp
 ---
 
 ## Hello World in C++ language
