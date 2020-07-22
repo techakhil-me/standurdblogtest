@@ -1,6 +1,6 @@
 ---
 title: Nqueens Backtracking | PYTHON
-date: 2019-12-20T07:43:00.476Z
+date: 2019-12-20
 cover: /images/people-on-train-station-3412360.jpg
 category: algorithm
 tags:

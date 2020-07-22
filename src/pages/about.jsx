@@ -12,7 +12,15 @@ const About = () => {
         <img src={me} className="user-avatar" alt="Akhil Padmanabhan" />
         <section className="about-context">
           <div>
-            <h3>Akhil Padmanabhan</h3>
+          <div class="container">
+  <div class="upper">
+    <div class="upper-text">Hello</div>
+  </div>
+  <div class="lower">
+    <div class="lower-text">Hello</div>
+  </div>
+</div>
+<div class="divider"></div>
             <p className="time">2003-03-07</p>
             <p>
             Tech Enthusiast, having designed many logos, banners and website ux/ui looking forward to enrich my creative hobby as an professional asset.
