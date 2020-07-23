@@ -1,11 +1,12 @@
 @import "../layout/style/base/setting";
 @import "../layout/style/base/breakpoints";
 
+
 .title {
 	color: var(--text-color);
 	font-weight: normal;
 	font-family: 'Ultra', sans-serif;   
-	font-size: 3em;
+	font-size: 6vw;
   line-height: 1em;
 	text-transform: uppercase;
   text-shadow: 0 0.03em rgb(79, 93, 173), 0 3px rgb(93, 131, 180);
@@ -23,14 +24,14 @@
   transform: translate(-50%, -50%);
   z-index: 2;
   width: 80%;
-  height: 60%;
+  height: auto;
   text-align: center;
 }
 
 .para {
   color: #222;
   text-shadow: 0px 2px 3px #555;  
-  font: 2em Tahoma, Helvetica, Arial, Sans-Serif;
+  font: 150% Tahoma, Helvetica, Arial, Sans-Serif;
 	text-align: center;
 }
 
@@ -42,9 +43,24 @@
   /* Full height */
   height: 100%;
   width: 100%;
-
+  position: relative;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   }
+
+a {
+  color: #ffffff;
+}
+
+@media screen and (max-width: 400px) {
+  html {
+    font-size: 3vw;
+  }
+  
+  .cont {
+    position: absolute;
+    top: 30%;
+  }
+}
